@@ -1,0 +1,632 @@
+[
+    {
+        "title": "The Architecture of Intelligence: Designing AI Systems That Evolve",
+        "excerpt": "Exploring how modular AI architectures enable systems to adapt and self-improve over time without complete redesign.",
+        "category": "AI",
+        "tag": "AI",
+        "readTime": "12 min",
+        "timestamp": "2024-01-10T09:30:00",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/architecture-intelligence-designing-ai-systems-evolve"
+    },
+    {
+        "title": "AI Winters and Summers: Understanding the Cycles of Hype and Progress",
+        "excerpt": "Historical analysis of AI development cycles and what current trends suggest about the future of artificial intelligence.",
+        "category": "AI",
+        "tag": "AI",
+        "readTime": "11 min",
+        "timestamp": "2024-02-05T14:15:00",
+        "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ai-winters-summers-understanding-cycles-hype-progress"
+    },
+    {
+        "title": "Data Fabric vs Data Mesh: Modern Approaches to Enterprise Data Architecture",
+        "excerpt": "Comparing two leading paradigms for organizing and accessing distributed data across complex organizations.",
+        "category": "Data",
+        "tag": "Data",
+        "readTime": "14 min",
+        "timestamp": "2024-01-15T11:45:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/data-fabric-vs-data-mesh-modern-approaches-enterprise-data-architecture"
+    },
+    {
+        "title": "Synthetic Data Generation: Creating Realistic Training Data When Real Data Is Scarce",
+        "excerpt": "How AI-generated synthetic data is solving privacy concerns and data scarcity problems across industries.",
+        "category": "Data",
+        "tag": "Data",
+        "readTime": "10 min",
+        "timestamp": "2024-02-12T16:20:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/synthetic-data-generation-creating-realistic-training-data"
+    },
+    {
+        "title": "Transfer Learning Revolution: How Pre-trained Models Are Democratizing AI",
+        "excerpt": "The impact of models like BERT and GPT on making advanced machine learning accessible without massive datasets.",
+        "category": "Machine Learning",
+        "tag": "Machine Learning",
+        "readTime": "13 min",
+        "timestamp": "2024-01-20T10:10:00",
+        "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/transfer-learning-revolution-pre-trained-models-democratizing-ai"
+    },
+    {
+        "title": "Causal Machine Learning: Moving Beyond Correlation to True Understanding",
+        "excerpt": "How causal inference techniques are enabling AI to understand cause-and-effect relationships in complex systems.",
+        "category": "Machine Learning",
+        "tag": "Machine Learning",
+        "readTime": "15 min",
+        "timestamp": "2024-02-18T13:25:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/causal-machine-learning-moving-beyond-correlation-true-understanding"
+    },
+    {
+        "title": "Predictive Analytics at Scale: Real-Time Decision Making for Enterprises",
+        "excerpt": "How modern analytics platforms process streaming data to provide instant insights and predictions.",
+        "category": "Analytics",
+        "tag": "Analytics",
+        "readTime": "9 min",
+        "timestamp": "2024-01-25T15:40:00",
+        "image": "https://images.unsplash.com/photo-1546054451-5d0ec4d4435c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/predictive-analytics-scale-real-time-decision-making-enterprises"
+    },
+    {
+        "title": "Augmented Analytics: How AI Is Making Data Analysis Accessible to Everyone",
+        "excerpt": "Natural language interfaces and automated insight generation are transforming who can work with data.",
+        "category": "Analytics",
+        "tag": "Analytics",
+        "readTime": "8 min",
+        "timestamp": "2024-02-22T12:05:00",
+        "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/augmented-analytics-ai-making-data-analysis-accessible-everyone"
+    },
+    {
+        "title": "The Full-Stack Data Scientist: Bridging Engineering, Analysis, and Business",
+        "excerpt": "How the role of data scientists is evolving to encompass the entire data pipeline from collection to deployment.",
+        "category": "Data Science",
+        "tag": "Data Science",
+        "readTime": "12 min",
+        "timestamp": "2024-01-30T08:50:00",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/full-stack-data-scientist-bridging-engineering-analysis-business"
+    },
+    {
+        "title": "Data Science in Production: Overcoming the Last Mile Problem",
+        "excerpt": "Strategies for moving from experimental notebooks to reliable, scalable production systems.",
+        "category": "Data Science",
+        "tag": "Data Science",
+        "readTime": "11 min",
+        "timestamp": "2024-02-25T17:35:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/data-science-production-overcoming-last-mile-problem"
+    },
+    {
+        "title": "Intelligent Process Automation: The Next Generation of Business Efficiency",
+        "excerpt": "How AI is transforming RPA from simple task automation to intelligent workflow optimization.",
+        "category": "Automation",
+        "tag": "Automation",
+        "readTime": "10 min",
+        "timestamp": "2024-02-02T14:55:00",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/intelligent-process-automation-next-generation-business-efficiency"
+    },
+    {
+        "title": "Hyperautomation: Integrating AI, RPA, and Low-Code for End-to-End Automation",
+        "excerpt": "How organizations are combining multiple technologies to automate complex business processes completely.",
+        "category": "Automation",
+        "tag": "Automation",
+        "readTime": "13 min",
+        "timestamp": "2024-03-01T10:20:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/hyperautomation-integrating-ai-rpa-low-code-end-to-end-automation"
+    },
+    {
+        "title": "Algorithmic Fairness: Designing Bias-Free Decision Systems",
+        "excerpt": "Techniques and frameworks for ensuring algorithms make equitable decisions across diverse populations.",
+        "category": "Algorithms",
+        "tag": "Algorithms",
+        "readTime": "14 min",
+        "timestamp": "2024-02-08T16:45:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/algorithmic-fairness-designing-bias-free-decision-systems"
+    },
+    {
+        "title": "Evolutionary Algorithms: Solving Complex Optimization Problems Through Natural Selection",
+        "excerpt": "How algorithms inspired by biological evolution are tackling problems too complex for traditional approaches.",
+        "category": "Algorithms",
+        "tag": "Algorithms",
+        "readTime": "12 min",
+        "timestamp": "2024-03-05T12:25:00",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/evolutionary-algorithms-solving-complex-optimization-problems"
+    },
+    {
+        "title": "The Lakehouse Architecture: Unifying Data Lakes and Data Warehouses",
+        "excerpt": "How modern data platforms combine the flexibility of data lakes with the reliability of data warehouses.",
+        "category": "Big Data",
+        "tag": "Big Data",
+        "readTime": "11 min",
+        "timestamp": "2024-02-15T11:30:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/lakehouse-architecture-unifying-data-lakes-data-warehouses"
+    },
+    {
+        "title": "Real-Time Big Data Processing: Architectures for Streaming Analytics",
+        "excerpt": "Comparing Apache Kafka, Flink, and Spark Streaming for high-volume, low-latency data processing.",
+        "category": "Big Data",
+        "tag": "Big Data",
+        "readTime": "13 min",
+        "timestamp": "2024-03-10T15:15:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/real-time-big-data-processing-architectures-streaming-analytics"
+    },
+    {
+        "title": "Multilingual NLP: Breaking Language Barriers in Global AI Systems",
+        "excerpt": "How transformer models are enabling truly multilingual understanding and generation across hundreds of languages.",
+        "category": "NLP",
+        "tag": "NLP",
+        "readTime": "12 min",
+        "timestamp": "2024-02-20T09:40:00",
+        "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/multilingual-nlp-breaking-language-barriers-global-ai-systems"
+    },
+    {
+        "title": "Conversational AI Evolution: From Rule-Based Chatbots to Context-Aware Assistants",
+        "excerpt": "How large language models have transformed what's possible in human-computer conversation.",
+        "category": "NLP",
+        "tag": "NLP",
+        "readTime": "10 min",
+        "timestamp": "2024-03-15T14:20:00",
+        "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/conversational-ai-evolution-rule-based-chatbots-context-aware-assistants"
+    },
+    {
+        "title": "Vision Transformers: How Attention Mechanisms Are Revolutionizing Computer Vision",
+        "excerpt": "The shift from convolutional networks to transformer architectures in image recognition and understanding.",
+        "category": "Vision",
+        "tag": "Vision",
+        "readTime": "14 min",
+        "timestamp": "2024-02-25T13:55:00",
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/vision-transformers-attention-mechanisms-revolutionizing-computer-vision"
+    },
+    {
+        "title": "Generative Vision: Creating Realistic Images and Videos from Text Descriptions",
+        "excerpt": "How models like DALL-E and Stable Diffusion are changing creative industries and visual communication.",
+        "category": "Vision",
+        "tag": "Vision",
+        "readTime": "11 min",
+        "timestamp": "2024-03-20T11:10:00",
+        "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/generative-vision-creating-realistic-images-videos-text-descriptions"
+    },
+    {
+        "title": "Collaborative Robotics: Humans and Robots Working Side by Side Safely",
+        "excerpt": "Advances in safety systems and intuitive interfaces enabling true human-robot collaboration.",
+        "category": "Robotics",
+        "tag": "Robotics",
+        "readTime": "13 min",
+        "timestamp": "2024-03-01T16:30:00",
+        "image": "https://images.unsplash.com/photo-1677856209785-6c0c1edb7d39?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/collaborative-robotics-humans-robots-working-side-by-side-safely"
+    },
+    {
+        "title": "Soft Robotics: Bio-Inspired Machines That Adapt to Their Environment",
+        "excerpt": "How flexible, compliant robots are enabling new applications in healthcare, exploration, and manufacturing.",
+        "category": "Robotics",
+        "tag": "Robotics",
+        "readTime": "12 min",
+        "timestamp": "2024-03-25T10:45:00",
+        "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/soft-robotics-bio-inspired-machines-adapt-environment"
+    },
+    {
+        "title": "Self-Supervised Learning: The Future of AI Training Without Manual Labels",
+        "excerpt": "How models learn from unlabeled data by creating their own learning objectives from the data's structure.",
+        "category": "Deep Learning",
+        "tag": "Deep Learning",
+        "readTime": "15 min",
+        "timestamp": "2024-03-05T14:15:00",
+        "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/self-supervised-learning-future-ai-training-without-manual-labels"
+    },
+    {
+        "title": "Explainable Deep Learning: Making Black Box Models Transparent and Trustworthy",
+        "excerpt": "Techniques for understanding and interpreting the decisions of complex neural networks.",
+        "category": "Deep Learning",
+        "tag": "Deep Learning",
+        "readTime": "14 min",
+        "timestamp": "2024-03-30T09:30:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/explainable-deep-learning-making-black-box-models-transparent-trustworthy"
+    },
+    {
+        "title": "Neural Architecture Search: Automating the Design of Neural Networks",
+        "excerpt": "How AI is being used to design better AI architectures, optimizing for performance, efficiency, and size.",
+        "category": "Neural Nets",
+        "tag": "Neural Nets",
+        "readTime": "16 min",
+        "timestamp": "2024-03-10T11:20:00",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/neural-architecture-search-automating-design-neural-networks"
+    },
+    {
+        "title": "Spiking Neural Networks: Brain-Inspired Computing for Energy-Efficient AI",
+        "excerpt": "How neuromorphic computing mimics biological neurons for ultra-low-power AI applications.",
+        "category": "Neural Nets",
+        "tag": "Neural Nets",
+        "readTime": "13 min",
+        "timestamp": "2024-04-04T15:40:00",
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/spiking-neural-networks-brain-inspired-computing-energy-efficient-ai"
+    },
+    {
+        "title": "Multimodal Generative AI: Creating Coherent Content Across Text, Image, and Audio",
+        "excerpt": "How models that understand multiple modalities are enabling more natural and creative AI interactions.",
+        "category": "Gen AI",
+        "tag": "Gen AI",
+        "readTime": "12 min",
+        "timestamp": "2024-03-15T13:25:00",
+        "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/multimodal-generative-ai-creating-coherent-content-across-text-image-audio"
+    },
+    {
+        "title": "Generative AI in Education: Personalized Learning at Scale",
+        "excerpt": "How AI-generated content and adaptive tutoring systems are transforming education delivery.",
+        "category": "Gen AI",
+        "tag": "Gen AI",
+        "readTime": "11 min",
+        "timestamp": "2024-04-09T10:15:00",
+        "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/generative-ai-education-personalized-learning-scale"
+    },
+    {
+        "title": "Autonomous AI Agents: Systems That Can Plan, Act, and Learn Independently",
+        "excerpt": "How AI agents are evolving from simple executors to autonomous entities with goal-directed behavior.",
+        "category": "Agents",
+        "tag": "Agents",
+        "readTime": "14 min",
+        "timestamp": "2024-03-20T16:50:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/autonomous-ai-agents-systems-can-plan-act-learn-independently"
+    },
+    {
+        "title": "Multi-Agent Systems: When Multiple AI Agents Collaborate to Solve Problems",
+        "excerpt": "How coordinated groups of specialized agents can tackle complex tasks beyond any single agent's capability.",
+        "category": "Agents",
+        "tag": "Agents",
+        "readTime": "13 min",
+        "timestamp": "2024-04-14T12:30:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/multi-agent-systems-multiple-ai-agents-collaborate-solve-problems"
+    },
+    {
+        "title": "Uncertainty-Aware Prediction: When AI Knows What It Doesn't Know",
+        "excerpt": "Techniques for building AI systems that quantify and communicate their prediction confidence.",
+        "category": "Prediction",
+        "tag": "Prediction",
+        "readTime": "12 min",
+        "timestamp": "2024-03-25T09:45:00",
+        "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/uncertainty-aware-prediction-ai-knows-what-doesnt-know"
+    },
+    {
+        "title": "Counterfactual Predictions: What Would Have Happened If...",
+        "excerpt": "How AI systems can simulate alternative scenarios to understand causal relationships and make better decisions.",
+        "category": "Prediction",
+        "tag": "Prediction",
+        "readTime": "14 min",
+        "timestamp": "2024-04-19T14:20:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/counterfactual-predictions-what-would-have-happened-if"
+    },
+    {
+        "title": "Constrained Optimization: Finding the Best Solution Within Real-World Limits",
+        "excerpt": "Advanced techniques for optimization problems where solutions must satisfy practical constraints.",
+        "category": "Optimization",
+        "tag": "Optimization",
+        "readTime": "13 min",
+        "timestamp": "2024-03-30T11:10:00",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/constrained-optimization-finding-best-solution-within-real-world-limits"
+    },
+    {
+        "title": "Bayesian Optimization: Efficiently Searching Complex Spaces for Optimal Solutions",
+        "excerpt": "How probabilistic models guide the search for optimal configurations in expensive-to-evaluate systems.",
+        "category": "Optimization",
+        "tag": "Optimization",
+        "readTime": "15 min",
+        "timestamp": "2024-04-24T16:35:00",
+        "image": "https://images.unsplash.com/photo-1546054451-5d0ec4d4435c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/bayesian-optimization-efficiently-searching-complex-spaces-optimal-solutions"
+    },
+    {
+        "title": "The Modern Data Stack: Essential Components for Scalable Data Engineering",
+        "excerpt": "An overview of the tools and platforms that make up today's data engineering ecosystem.",
+        "category": "Data Eng",
+        "tag": "Data Eng",
+        "readTime": "11 min",
+        "timestamp": "2024-04-04T10:25:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/modern-data-stack-essential-components-scalable-data-engineering"
+    },
+    {
+        "title": "Data Observability: Monitoring Data Quality and Pipeline Health in Real Time",
+        "excerpt": "Tools and practices for ensuring data reliability throughout the entire data lifecycle.",
+        "category": "Data Eng",
+        "tag": "Data Eng",
+        "readTime": "10 min",
+        "timestamp": "2024-04-29T13:50:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/data-observability-monitoring-data-quality-pipeline-health-real-time"
+    },
+    {
+        "title": "MLOps Maturity Model: From Experimentation to Enterprise AI",
+        "excerpt": "A framework for assessing and improving your organization's machine learning operations capabilities.",
+        "category": "MLOps",
+        "tag": "MLOps",
+        "readTime": "14 min",
+        "timestamp": "2024-04-09T15:15:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/mlops-maturity-model-experimentation-enterprise-ai"
+    },
+    {
+        "title": "Feature Stores: Centralizing and Managing ML Features for Consistency",
+        "excerpt": "How feature stores solve data consistency problems in machine learning development and deployment.",
+        "category": "MLOps",
+        "tag": "MLOps",
+        "readTime": "12 min",
+        "timestamp": "2024-05-04T09:40:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/feature-stores-centralizing-managing-ml-features-consistency"
+    },
+    {
+        "title": "Adversarial Machine Learning: Defending AI Systems Against Attack",
+        "excerpt": "Techniques for making AI models robust against malicious inputs designed to fool them.",
+        "category": "Security",
+        "tag": "Security",
+        "readTime": "13 min",
+        "timestamp": "2024-04-14T12:05:00",
+        "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/adversarial-machine-learning-defending-ai-systems-against-attack"
+    },
+    {
+        "title": "AI Supply Chain Security: Vulnerabilities in the Machine Learning Lifecycle",
+        "excerpt": "Identifying and mitigating security risks in the complex ecosystem of AI development and deployment.",
+        "category": "Security",
+        "tag": "Security",
+        "readTime": "11 min",
+        "timestamp": "2024-05-09T14:30:00",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ai-supply-chain-security-vulnerabilities-machine-learning-lifecycle"
+    },
+    {
+        "title": "Differential Privacy: Learning from Data Without Learning About Individuals",
+        "excerpt": "Mathematical guarantees for privacy protection in data analysis and machine learning.",
+        "category": "Privacy",
+        "tag": "Privacy",
+        "readTime": "15 min",
+        "timestamp": "2024-04-19T10:55:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/differential-privacy-learning-data-without-learning-about-individuals"
+    },
+    {
+        "title": "Federated Learning: Training AI Models on Decentralized Data",
+        "excerpt": "How machine learning can happen on user devices without data ever leaving them.",
+        "category": "Privacy",
+        "tag": "Privacy",
+        "readTime": "12 min",
+        "timestamp": "2024-05-14T16:20:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/federated-learning-training-ai-models-decentralized-data"
+    },
+    {
+        "title": "Algorithmic Impact Assessments: Evaluating AI Systems Before Deployment",
+        "excerpt": "A structured approach to identifying and mitigating potential harms from AI systems.",
+        "category": "Ethics",
+        "tag": "Ethics",
+        "readTime": "14 min",
+        "timestamp": "2024-04-24T13:45:00",
+        "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/algorithmic-impact-assessments-evaluating-ai-systems-before-deployment"
+    },
+    {
+        "title": "Value Alignment: Ensuring AI Systems Act in Accordance with Human Values",
+        "excerpt": "The challenge of encoding complex human ethics into machine learning objectives.",
+        "category": "Ethics",
+        "tag": "Ethics",
+        "readTime": "16 min",
+        "timestamp": "2024-05-19T11:10:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/value-alignment-ensuring-ai-systems-act-accordance-human-values"
+    },
+    {
+        "title": "Concept-Based Explanations: Making AI Decisions Understandable to Humans",
+        "excerpt": "Moving beyond feature importance to explanations based on human-understandable concepts.",
+        "category": "Explainability",
+        "tag": "Explainability",
+        "readTime": "13 min",
+        "timestamp": "2024-04-29T15:35:00",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/concept-based-explanations-making-ai-decisions-understandable-humans"
+    },
+    {
+        "title": "Model Cards and Datasheets: Standardized Documentation for AI Systems",
+        "excerpt": "How transparent documentation practices are improving AI accountability and reproducibility.",
+        "category": "Explainability",
+        "tag": "Explainability",
+        "readTime": "11 min",
+        "timestamp": "2024-05-24T09:00:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/model-cards-datasheets-standardized-documentation-ai-systems"
+    },
+    {
+        "title": "TinyML: Running Machine Learning on Microcontrollers and Edge Devices",
+        "excerpt": "How AI models are being optimized to run on resource-constrained devices with minimal power consumption.",
+        "category": "Edge AI",
+        "tag": "Edge AI",
+        "readTime": "12 min",
+        "timestamp": "2024-05-04T14:25:00",
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/tinyml-running-machine-learning-microcontrollers-edge-devices"
+    },
+    {
+        "title": "Edge AI Architectures: Distributed Intelligence from Cloud to Endpoint",
+        "excerpt": "Design patterns for deploying AI across heterogeneous computing environments.",
+        "category": "Edge AI",
+        "tag": "Edge AI",
+        "readTime": "13 min",
+        "timestamp": "2024-05-29T12:50:00",
+        "image": "https://images.unsplash.com/photo-1546054451-5d0ec4d4435c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/edge-ai-architectures-distributed-intelligence-cloud-endpoint"
+    },
+    {
+        "title": "Multi-Agent Reinforcement Learning: When AI Agents Learn to Cooperate and Compete",
+        "excerpt": "How reinforcement learning enables multiple agents to develop complex interactive behaviors.",
+        "category": "RL",
+        "tag": "RL",
+        "readTime": "15 min",
+        "timestamp": "2024-05-09T16:15:00",
+        "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/multi-agent-reinforcement-learning-ai-agents-learn-cooperate-compete"
+    },
+    {
+        "title": "Inverse Reinforcement Learning: Inferring Rewards from Observed Behavior",
+        "excerpt": "How AI can learn what goals humans are pursuing by watching their actions.",
+        "category": "RL",
+        "tag": "RL",
+        "readTime": "14 min",
+        "timestamp": "2024-06-03T10:40:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/inverse-reinforcement-learning-inferring-rewards-observed-behavior"
+    },
+    {
+        "title": "Autonomous System Safety: Formal Verification for AI-Controlled Systems",
+        "excerpt": "Mathematical methods for proving safety properties in autonomous decision-making systems.",
+        "category": "Autonomous",
+        "tag": "Autonomous",
+        "readTime": "16 min",
+        "timestamp": "2024-05-14T13:05:00",
+        "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/autonomous-system-safety-formal-verification-ai-controlled-systems"
+    },
+    {
+        "title": "Hierarchical Autonomy: Multi-Level Decision Making in Complex Environments",
+        "excerpt": "How autonomous systems manage decisions at different timescales and abstraction levels.",
+        "category": "Autonomous",
+        "tag": "Autonomous",
+        "readTime": "13 min",
+        "timestamp": "2024-06-08T15:30:00",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/hierarchical-autonomy-multi-level-decision-making-complex-environments"
+    },
+    {
+        "title": "Cross-Modal Understanding: How AI Connects Vision, Language, and Sound",
+        "excerpt": "Techniques for building AI systems that can understand relationships between different types of data.",
+        "category": "Multimodal",
+        "tag": "Multimodal",
+        "readTime": "12 min",
+        "timestamp": "2024-05-19T11:55:00",
+        "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/cross-modal-understanding-ai-connects-vision-language-sound"
+    },
+    {
+        "title": "Multimodal Retrieval: Finding Information Across Text, Images, and Video",
+        "excerpt": "How AI enables searching and organizing information regardless of its original format.",
+        "category": "Multimodal",
+        "tag": "Multimodal",
+        "readTime": "11 min",
+        "timestamp": "2024-06-13T14:20:00",
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/multimodal-retrieval-finding-information-across-text-images-video"
+    },
+    {
+        "title": "AI Regulation Around the World: Comparing Approaches from EU, US, and China",
+        "excerpt": "How different regulatory philosophies are shaping the global development of artificial intelligence.",
+        "category": "Regulation",
+        "tag": "Regulation",
+        "readTime": "14 min",
+        "timestamp": "2024-05-24T16:45:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ai-regulation-around-world-comparing-approaches-eu-us-china"
+    },
+    {
+        "title": "Compliance as Code: Automating Regulatory Requirements in AI Systems",
+        "excerpt": "How technical solutions are helping organizations meet complex regulatory obligations.",
+        "category": "Regulation",
+        "tag": "Regulation",
+        "readTime": "12 min",
+        "timestamp": "2024-06-18T10:10:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/compliance-code-automating-regulatory-requirements-ai-systems"
+    },
+    {
+        "title": "AI-Powered Business Process Optimization: Beyond Simple Automation",
+        "excerpt": "How AI identifies inefficiencies and redesigns workflows for maximum business value.",
+        "category": "Business AI",
+        "tag": "Business AI",
+        "readTime": "11 min",
+        "timestamp": "2024-05-29T13:35:00",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ai-powered-business-process-optimization-beyond-simple-automation"
+    },
+    {
+        "title": "AI-Driven Customer Experience: Personalization at Every Touchpoint",
+        "excerpt": "How businesses use AI to create seamless, individualized experiences across channels.",
+        "category": "Business AI",
+        "tag": "Business AI",
+        "readTime": "10 min",
+        "timestamp": "2024-06-23T15:00:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ai-driven-customer-experience-personalization-every-touchpoint"
+    },
+    {
+        "title": "AI in Medical Imaging: Early Detection and Diagnosis Support",
+        "excerpt": "How machine learning is augmenting radiologists and pathologists with faster, more accurate analysis.",
+        "category": "Health AI",
+        "tag": "Health AI",
+        "readTime": "13 min",
+        "timestamp": "2024-06-03T09:25:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ai-medical-imaging-early-detection-diagnosis-support"
+    },
+    {
+        "title": "Predictive Healthcare: AI for Preventive Medicine and Population Health",
+        "excerpt": "Using machine learning to identify health risks before symptoms appear and optimize treatment plans.",
+        "category": "Health AI",
+        "tag": "Health AI",
+        "readTime": "12 min",
+        "timestamp": "2024-06-28T11:50:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/predictive-healthcare-ai-preventive-medicine-population-health"
+    },
+    {
+        "title": "Algorithmic Trading Evolution: From Rules to Reinforcement Learning",
+        "excerpt": "How AI is transforming financial markets with adaptive, learning-based trading strategies.",
+        "category": "Finance AI",
+        "tag": "Finance AI",
+        "readTime": "14 min",
+        "timestamp": "2024-06-08T14:15:00",
+        "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/algorithmic-trading-evolution-rules-reinforcement-learning"
+    },
+    {
+        "title": "AI in Risk Management: Predictive Models for Credit, Fraud, and Compliance",
+        "excerpt": "How financial institutions use machine learning to quantify and mitigate various types of risk.",
+        "category": "Finance AI",
+        "tag": "Finance AI",
+        "readTime": "13 min",
+        "timestamp": "2024-07-03T16:40:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ai-risk-management-predictive-models-credit-fraud-compliance"
+    },
+    {
+        "title": "AI in Risk Management: Predictive Models for Credit, Fraud, and Compliance",
+        "excerpt": "How financial institutions use machine learning to quantify and mitigate various types of risk.",
+        "category": "Finance AI",
+        "tag": "Finance AI",
+        "readTime": "13 min",
+        "timestamp": "2024-07-03T16:40:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ai-risk-management-predictive-models-credit-fraud-compliance"
+    }
+]
